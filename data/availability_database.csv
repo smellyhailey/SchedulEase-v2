@@ -1,0 +1,106 @@
+Day,Shift,Available,Selected by,Start,End
+2024-08-25,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-25,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-25,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-08-26,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-26,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-26,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-08-27,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-27,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-27,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-08-28,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-28,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-28,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-08-29,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-29,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-29,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-08-30,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-30,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-30,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-08-31,Morning,0,"Hailey, Russell, Hanis",8:00,16:00
+2024-08-31,Mid,0,"Netanya, Shava, Iqah",16:00,0:00
+2024-08-31,Night,0,"Sarah, Lois, Glenn",0:00,8:00
+2024-09-01,Morning,0,"Bill, Shava, Cayee, Hailey",8:00,16:00
+2024-09-01,Mid,0,"Glenn, JinLyn, Patricia, Russell",16:00,0:00
+2024-09-01,Night,0,"CiuLu, Netanya, Iqah, Vendo",0:00,8:00
+2024-09-02,Morning,0,"JinLyn, Hanis",8:00,16:00
+2024-09-02,Mid,0,"Bill, Sarah",16:00,0:00
+2024-09-02,Night,0,"Patricia, Hailey",0:00,8:00
+2024-09-03,Morning,0,"Shava, Russell",8:00,16:00
+2024-09-03,Mid,0,"JinLyn, Netanya",16:00,0:00
+2024-09-03,Night,0,"Patricia, Hanis",0:00,8:00
+2024-09-04,Morning,0,"Patricia, Sarah",8:00,16:00
+2024-09-04,Mid,0,"Glenn, Hailey",16:00,0:00
+2024-09-04,Night,0,"Shava, Russell",0:00,8:00
+2024-09-05,Morning,0,"Glenn, Netanya",8:00,16:00
+2024-09-05,Mid,0,"Patricia, Hanis",16:00,0:00
+2024-09-05,Night,0,"Bill, Sarah",0:00,8:00
+2024-09-06,Morning,0,"JinLyn, Glenn, Patricia, Hailey",8:00,16:00
+2024-09-06,Mid,0,"CiuLu, Cayee, Bill, Russell",16:00,0:00
+2024-09-06,Night,0,"Shava, Netanya, Adrian, Lois",0:00,8:00
+2024-09-07,Morning,0,"Bill, CiuLu, Glenn, Cayee, Hanis",8:00,16:00
+2024-09-07,Mid,0,"Shava, JinLyn, Sarah, Marinette, Iqah",16:00,0:00
+2024-09-07,Night,0,"Hailey, Vendo, Adrian, Lois",0:00,8:00
+2024-09-08,Morning,0,"Cayee, Patricia, Shava, Hailey",6:00,14:00
+2024-09-08,Mid,0,"CiuLu, JinLyn, Bill, Russell",10:00,18:00
+2024-09-08,Night,0,"Netanya, Iqah, Vendo, Adrian",14:00,22:00
+2024-09-09,Morning,0,"Shava, Glenn, Hanis",6:00,14:00
+2024-09-09,Mid,0,"JinLyn, Bill, Sarah",10:00,18:00
+2024-09-09,Night,0,"Cayee, CiuLu, Hailey",14:00,22:00
+2024-09-10,Morning,0,"JinLyn, Glenn, Russell",6:00,14:00
+2024-09-10,Mid,0,"Bill, Cayee, Netanya",10:00,18:00
+2024-09-10,Night,0,"CiuLu, Shava, Hanis",14:00,22:00
+2024-09-11,Morning,0,"CiuLu, Bill, Sarah",6:00,14:00
+2024-09-11,Mid,0,"Glenn, Patricia, Hailey",10:00,18:00
+2024-09-11,Night,0,"Shava, Cayee, Russell",14:00,22:00
+2024-09-12,Morning,0,"CiuLu, Shava, Netanya",6:00,14:00
+2024-09-12,Mid,0,"Patricia, Glenn, Hanis",10:00,18:00
+2024-09-12,Night,0,"Cayee, Bill, Sarah",14:00,22:00
+2024-09-13,Morning,0,"JinLyn, Glenn, Patricia, Hailey",6:00,14:00
+2024-09-13,Mid,0,"Russell, Lois, Marinette, Iqah",10:00,18:00
+2024-09-13,Night,0,"Netanya, Vendo, Adrian",14:00,22:00
+2024-09-14,Morning,0,"JinLyn, Patricia, Hanis, Lois",6:00,14:00
+2024-09-14,Mid,0,"Sarah, Marinette, Iqah, Vendo",10:00,18:00
+2024-09-14,Night,0,"Hailey, Adrian",14:00,22:00
+2024-09-15,Morning,0,"Patricia, Cayee, Shava, Hailey",10:00,16:00
+2024-09-15,Mid,0,"CiuLu, Bill, Glenn, Russell",12:00,18:00
+2024-09-15,Night,0,"JinLyn, Netanya, Iqah, Vendo",14:00,20:00
+2024-09-16,Morning,0,"Cayee, Bill, Hanis",10:00,16:00
+2024-09-16,Mid,0,"Shava, Glenn, Sarah",12:00,18:00
+2024-09-16,Night,0,"CiuLu, Patricia, Hailey",14:00,20:00
+2024-09-17,Morning,0,"Bill, CiuLu, Russell",10:00,16:00
+2024-09-17,Mid,0,"Glenn, Shava, Netanya",12:00,18:00
+2024-09-17,Night,0,"Cayee, JinLyn, Hanis",14:00,20:00
+2024-09-18,Morning,0,"Glenn, Bill, Sarah",10:00,16:00
+2024-09-18,Mid,0,"Patricia, JinLyn, Hailey",12:00,18:00
+2024-09-18,Night,0,"Shava, Cayee, Russell",14:00,20:00
+2024-09-19,Morning,0,"JinLyn, Patricia, Netanya",10:00,16:00
+2024-09-19,Mid,0,"Glenn, CiuLu, Hanis",12:00,18:00
+2024-09-19,Night,0,"Bill, Cayee, Sarah",14:00,20:00
+2024-09-20,Morning,0,"Cayee, CiuLu, Hailey",10:00,16:00
+2024-09-20,Mid,0,"Glenn, Shava, Russell",12:00,18:00
+2024-09-20,Night,0,"Patricia, Bill, Netanya",14:00,20:00
+2024-09-21,Morning,0,"JinLyn, CiuLu, Patricia, Shava, Hanis",10:00,16:00
+2024-09-21,Mid,0,"Sarah, Adrian, Lois, Marinette, Iqah",12:00,18:00
+2024-09-21,Night,0,"Hailey, Vendo",14:00,20:00
+2024-09-22,Morning,0,"Cayee, Shava, Hailey",8:00,16:00
+2024-09-22,Mid,0,"Glenn, Patricia, Russell",16:00,0:00
+2024-09-22,Night,0,"CiuLu, Bill, Netanya",0:00,8:00
+2024-09-23,Morning,0,"Cayee, Hanis",8:00,16:00
+2024-09-23,Mid,0,"Shava, Hailey",16:00,0:00
+2024-09-23,Night,0,"CiuLu, Russell",0:00,8:00
+2024-09-24,Morning,0,"JinLyn, Sarah",8:00,16:00
+2024-09-24,Mid,0,"Patricia, Netanya",16:00,0:00
+2024-09-24,Night,0,"Bill, Hanis",0:00,8:00
+2024-09-25,Morning,0,"Glenn, Sarah",8:00,16:00
+2024-09-25,Mid,0,"Patricia, Hailey",16:00,0:00
+2024-09-25,Night,0,"JinLyn, Russell",0:00,8:00
+2024-09-26,Morning,0,"Bill, Netanya",8:00,16:00
+2024-09-26,Mid,0,"Cayee, Hanis",16:00,0:00
+2024-09-26,Night,0,"Patricia, Sarah",0:00,8:00
+2024-09-27,Morning,0,"CiuLu, Hailey",8:00,16:00
+2024-09-27,Mid,0,"Shava, Russell",16:00,0:00
+2024-09-27,Night,0,"JinLyn, Netanya",0:00,8:00
+2024-09-28,Morning,0,"Glenn, Bill, Hanis",8:00,16:00
+2024-09-28,Mid,0,"Cayee, JinLyn, Sarah",16:00,0:00
+2024-09-28,Night,0,"Shava, CiuLu, Hailey",0:00,8:00

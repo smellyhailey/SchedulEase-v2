@@ -1,0 +1,27 @@
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    employee:
+      email: employee@mail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: employee
+      password: $2b$12$jP0F6zuIo3.Q5b56iliq/...zZVuQTinYKXTp/dred7.cCnM0pjWa
+      role: employee
+    hailey:
+      email: haileyerynanwari@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: hailey
+      password: $2b$12$s3qMbKRTWeKNHZAY2mphQ.iMKJso.ungiWjJdnv6uHjFE2eJw306K
+      role: admin
+    manager:
+      email: manager@mail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: manager
+      password: $2b$12$y4aUyWV5SPntzAnxXcC9UOLH50S/RjCP4yYQ6KtpzmTeuMiP62uIi
+      role: manager
